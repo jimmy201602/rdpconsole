@@ -12,6 +12,10 @@ Linux下执行./rdpconsole,默认监听的8088端口，在浏览器中输入http
 
 目前未实现剪贴板功能及磁盘映射协议
 
+
+# web版本linux ssh协议登录项目
+[https://github.com/jimmy201602/webconsole](https://github.com/jimmy201602/webconsole)
+
 # 预览视频
 
 https://user-images.githubusercontent.com/17548183/143253513-42d58183-6b41-491d-b85f-bb38127a8947.mp4
