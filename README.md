@@ -14,4 +14,4 @@ Linux下执行./rdpconsole,默认监听的8088端口，在浏览器中输入http
 
 # 预览视频
 
-![preview](./8ff0d3bb7acd0dca47685b7d01b46731_659440195116_v_1637747513877651.mp4)
+https://user-images.githubusercontent.com/17548183/143253513-42d58183-6b41-491d-b85f-bb38127a8947.mp4
