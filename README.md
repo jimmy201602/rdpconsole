@@ -6,7 +6,10 @@
 
 # 如何使用
 
-Linux下执行./rdpconsole,默认监听的8088端口，在浏览器中输入http://ip:8088即可进入服务器登录界面
+Linux下执行./rdp-console-linux-x86-64
+Windows下执行./rdp-console-windows-x86-64
+MacOS下执行./rdp-console-darwin-x86-64
+默认监听的8088端口，在浏览器中输入http://ip:8088即可进入服务器登录界面
 
 # 局限
 
@@ -19,3 +22,7 @@ Linux下执行./rdpconsole,默认监听的8088端口，在浏览器中输入http
 # 预览视频
 
 https://user-images.githubusercontent.com/17548183/143253513-42d58183-6b41-491d-b85f-bb38127a8947.mp4
+
+# 开源计划
+
+暂不开源，如有源码及二次开发需要，可加我QQ号码获得收费技术支持：313484953
