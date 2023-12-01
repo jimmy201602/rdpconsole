@@ -14,6 +14,18 @@ MacOS下执行./rdp-console-darwin-x86-64
 
 默认监听的8088端口，在浏览器中输入http://ip:8088即可进入服务器登录界面
 
+# 开启审计功能
+
+Linux下执行./rdp-console-linux-x86-64 -a=true
+
+Windows下执行./rdp-console-windows-x86-64 -a=true
+
+MacOS下执行./rdp-console-darwin-x86-64 -a=true
+
+监控录像放在当前目录audit目录下，截图存放为当前img目录下
+
+默认监听的8088端口，在浏览器中输入http://ip:8088即可进入服务器登录界面
+
 # 局限
 
 目前未实现剪贴板功能及磁盘映射协议
