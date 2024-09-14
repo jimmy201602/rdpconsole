@@ -38,6 +38,13 @@ MacOS下执行./rdp-console-darwin-x86-64 -a=true
 
 https://user-images.githubusercontent.com/17548183/143253513-42d58183-6b41-491d-b85f-bb38127a8947.mp4
 
+# release
+Nov 24, 2021
+新增nla登陆功能
+Dec 1, 2023
+新增rdp审计
+Sep 14, 2024
+修正键盘上下左右失灵问题，同时修正审计视频黑边问题
 # 开源计划
 
 暂不开源，如有源码及二次开发需要，可加我QQ号码获得收费技术支持：313484953
