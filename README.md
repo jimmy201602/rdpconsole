@@ -2,7 +2,7 @@
 
 # 说明
 
-纯go版本的rdp协议web版本实现，支持windows服务器rdp NLA安全协议支持剪贴板、磁盘映射等虚拟通道功能、支持音频输出、远程应用等高级功能，同时支持vnc协议的远程管理
+纯go版本的rdp、ssh、sftp、vnc协议web版本实现，支持windows服务器rdp NLA安全协议支持剪贴板、磁盘映射等虚拟通道功能、支持音频输出、远程应用等高级功能，同时支持vnc协议、ssh协议、sftp协议的远程管理
 
 # 如何使用
 
@@ -26,13 +26,7 @@ MacOS下执行./rdp-console-darwin-x86-64 -a=true
 
 默认监听的8088端口，在浏览器中输入http://ip:8088即可进入服务器登录界面
 
-# 局限
 
-目前未实现剪贴板功能及磁盘映射协议
-
-
-# web版本linux ssh协议登录项目
-[https://github.com/jimmy201602/webconsole](https://github.com/jimmy201602/webconsole)
 
 # release
 ```shell
@@ -54,6 +48,8 @@ Jan 5, 2026
 支持会话断开通知
 May 10, 2026
 支持网页映射客户端目录至远程服务器
+May 24, 2026
+新增ssh、sftp协议、命令审计索引
 ```
 
 # 开源计划
@@ -61,11 +57,15 @@ May 10, 2026
 暂不开源，如有源码及二次开发需要，可加我QQ号码获得收费技术支持：313484953
 
 # 预览
-![alt text](./images/image.png)
-![alt text](./images/image-4.png)
-![alt text](./images/image-1.png)
-![alt text](./images/image-2.png)
-![alt text](./images/image-3.png)
+![登录界面](./images/image-1.png)
+![RDP远程桌面](./images/image-2.png)
+![VNC远程桌面](./images/image-3.png)
+![SSH终端与SFTP文件管理](./images/image-4.png)
+![录像回放列表](./images/image-5.png)
+![SSH录像回放与命令索引](./images/image-6.png)
+![RDP录像播放](./images/image-7.png)
+![视频导出管理](./images/image-8.png)
+
 
 # 预览视频
 
